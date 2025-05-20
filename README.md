@@ -19,10 +19,10 @@ The dashboard provides insights into how countries and athletes have performed i
 - Filters for year, country, sport, and event
 - Clear visuals to compare Olympic performance over time
 
-## Data Source
+## Data Source & Credits
 
-- Dataset: Historical results of the Olympic Games
-- Filtered to include only **Summer Olympic Games**
+- The dataset and project reference were taken from **Ali Ahmed**'s YouTube channel, where he provided the Olympic Games dataset and an excellent walkthrough for analysis.
+- The data used includes only **Summer Olympic Games**.
 
 ## Files Included
 
@@ -37,5 +37,6 @@ The dashboard provides insights into how countries and athletes have performed i
 
 ## License
 
-This project is for educational and portfolio purposes only. Data belongs to the original source providers.
+This project is for educational and portfolio purposes only. Full credit to Ali Ahmed for the original dataset and inspiration.
+
 
