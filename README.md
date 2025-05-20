@@ -21,7 +21,7 @@ The dashboard provides insights into how countries and athletes have performed i
 
 ## Data Source & Credits
 
-- The dataset and project reference were taken from **Ali Ahmed**'s YouTube channel, where he provided the Olympic Games dataset and an excellent walkthrough for analysis.
+- The dataset and project reference were taken from **Ali Ahmad**'s YouTube channel, where he provided the Olympic Games dataset and an excellent walkthrough for analysis.
 - The data used includes only **Summer Olympic Games**.
 
 ## Files Included
@@ -37,5 +37,5 @@ The dashboard provides insights into how countries and athletes have performed i
 
 ## License
 
-This project is inspired by Ali Ahmed’s tutorial on Olympic Games analysis. All rights to the original dataset and tutorial belong to him. This version is adapted purely for educational and personal portfolio use.
+This project is inspired by Ali Ahmad’s tutorial on Olympic Games analysis. All rights to the original dataset and tutorial belong to him. This version is adapted purely for educational and personal portfolio use.
 
