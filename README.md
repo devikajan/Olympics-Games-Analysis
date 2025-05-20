@@ -37,6 +37,5 @@ The dashboard provides insights into how countries and athletes have performed i
 
 ## License
 
-This project is for educational and portfolio purposes only. Full credit to Ali Ahmed for the original dataset and inspiration.
-
+This project is inspired by Ali Ahmed’s tutorial on Olympic Games analysis. All rights to the original dataset and tutorial belong to him. This version is adapted purely for educational and personal portfolio use.
 
